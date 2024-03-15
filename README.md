@@ -4,6 +4,7 @@
 <div style="display: block">
 
 [![Blog](https://img.shields.io/website?label=<Meu_Web_Portfolio/>&style=for-the-badge&target="_blank"&url=https://sujeitoprogramador.com/)](https://miguelamaral.vercel.app)
+<br/>
 ![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelamaral254&show_icons=true&theme=dracula&count_private=true)
 
 </div>
