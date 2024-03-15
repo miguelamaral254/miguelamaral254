@@ -2,7 +2,7 @@
 
 
 
-[![Blog](https://img.shields.io/website?label=miguel.amaral.vercel.app&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://miguelamaral.vercel.app));
+[![Blog](https://img.shields.io/website?label=miguel.amaral.vercel.app&style=for-the-badge&url=https://sujeitoprogramador.com/target="_blank")](https://miguelamaral.vercel.app)
 ![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelamaral254&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
