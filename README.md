@@ -9,7 +9,7 @@
 
 </div>
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que possuo experiência:
 
 <div style="display: inline_block">
   <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
