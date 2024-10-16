@@ -68,7 +68,7 @@ Desenvolvedor Fullstack com foco em backend, possuo habilidades no desenvolvimen
 *ScriptCase (RAD)*  
 *09/2023 - Atual*  
 - Suporte técnico a clientes via chat/e-mail e análise de relatórios de inconsistências.  
-- **Tarefas:** Instalação/configuração de ambientes (Apache, PHP), migração de sistemas, testes em docker, etc.
+- **Tarefas:** Instalação/configuração de ambientes (Apache, PHP), migração de sistemas, testes,docker, etc.
 
 **Residência OnBoard Porto Digital - Temporário**  
 *Porto Digital/Serpro, Recife*  
