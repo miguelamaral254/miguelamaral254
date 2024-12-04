@@ -11,13 +11,13 @@
 <div align="center">
   <h3>Linguagens</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,javascript,typescript,php" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript" />
   </a>
   <br />
 
   <h3>Frameworks</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,spring,dotnet,angular,react,nodejs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nextjs,spring,react,nodejs,tailwind" />
   </a>
   <br />
 
