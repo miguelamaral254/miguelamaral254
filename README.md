@@ -46,30 +46,11 @@ Recife, Pernambuco
 
 ### Apresentação Pessoal
 
-Desenvolvedor Fullstack com foco em backend, possuo habilidades no desenvolvimento de sistemas, APIs, e repositórios. Colaborei em projetos desde soluções acadêmicas até gestão para micro e pequenas empresas. Meu destaque é a participação em um portal acadêmico, onde implementei grupos de segurança, políticas de acesso, lógica de atribuição de notas para professores, entre outras features. Busco uma posição para aplicar meu conhecimento técnico em desafios, contribuindo com a eficiência em equipe.
+Sobre
+Sou desenvolvedor backend com experiência na criação e manutenção de sistemas e APIs, com ênfase em soluções escaláveis e robustas. Minha trajetória inclui alguns projetos, onde posso destacar a Agenda Virtual NRF Retail 2025, que foi o meu primeiro projeto publicado com usuários reais.
 
-### Experiência Profissional
+Possuo experiência no uso de tecnologias modernas, como Java (Spring Boot), TypeScript, Next.js e Node.js. Focado em sempre melhorar minhas habilidades técnicas, utilizo ferramentas como Docker e bancos de dados relacionais e não relacionais (MySQL, PostgreSQL, MongoDB). Minha abordagem colaborativa é essencial para integrar equipes multidisciplinares e entregar resultados de impacto.
 
-**Desenvolvedor Fullstack - Temporário**  
-*Senac/Mediotec, Recife*  
-*08/2024 - Atual*  
-- Desenvolvimento do Portal do Aluno Mediotec, focado em engajamento estudantil.  
-- **Tecnologias:** Next.js, TypeScript (frontend), Java 17 + Spring Boot (API), AWS.
+Busco novas oportunidades para aplicar meu conhecimento em projetos desafiadores, contribuindo com minha experiência e aprendendo constantemente.
 
-**Analista em Suporte Técnico - CLT**  
-*ScriptCase (RAD)*  
-*09/2023 - Atual*  
-- Suporte técnico a clientes via chat/e-mail e análise de relatórios de inconsistências.  
-- **Tarefas:** Instalação/configuração de ambientes (Apache, PHP), migração de sistemas, testes, Docker, etc.
-
-**Residência OnBoard Porto Digital - Temporário**  
-*Porto Digital/Serpro, Recife*  
-*02/2024 até 06/2024*  
-- Desenvolvimento de solução para micro e pequenas empresas, com gestão de funcionários, vendas e estoque.  
-- **Tecnologias:** Angular, TypeScript (frontend), .NET (API), MS SQL Server.
-
-### Idiomas
-- **Inglês:** Avançado (C1)  
-- **Espanhol:** Intermediário (B2)
-
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
