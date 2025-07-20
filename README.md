@@ -1,56 +1,57 @@
-# Olá! Eu sou o Miguel Amaral
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
 
-[![Meu Portfólio](https://img.shields.io/website?label=Meu%20Portfólio&style=for-the-badge&url=https://miguelamaral.vercel.app)](https://miguelamaral.vercel.app)
+<h2 align="left">Olá, Mundo! Eu sou o Miguel Amaral 🚀</h2>
 
-![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelamaral254&show_icons=true&theme=dracula&count_private=true)
+###
 
----
+<p align="left">
+  👨‍💻 Desenvolvedor Backend focado em criar e manter sistemas e APIs escaláveis e robustas.<br>
+  🎓 Buscando oportunidades para aplicar meu conhecimento em projetos desafiadores e aprender constantemente.<br>
+  💡 Experiência em Java (Spring), TypeScript, Next.js, Node.js, Docker e bancos de dados SQL/NoSQL.
+</p>
 
-## Tecnologias que possuo experiência:
+###
 
 <div align="center">
-  <h3>Linguagens</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,typescript" />
-  </a>
-  <br />
-
-  <h3>Frameworks</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,spring,react,nodejs,tailwind" />
-  </a>
-  <br />
-
-  <h3>Bancos de Dados</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
-  </a>
-  <br />
-
-  <h3>Outras Tecnologias</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,azure,figma,linux,maven,gradle" />
-  </a>
-  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=miguelamaral254&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=true" height="150" alt="Estatísticas do GitHub do Miguel"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelamaral254&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=true" height="150" alt="Linguagens mais usadas pelo Miguel"  />
 </div>
 
----
+###
 
-## Currículo
+<h3 align="center">Tecnologias e Ferramentas</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,spring,javascript,typescript,nodejs,react,nextjs,tailwind" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,docker,aws,azure,linux,figma,maven,gradle" />
+</div>
 
-**Miguel Augusto Sales do Amaral**  
-Recife, Pernambuco  
-📱 (81) 99637-9353  
-📧 miguel.amaral.sales@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/miguelamaral254/) • [GitHub](https://github.com/miguelamaral254) • [Portfólio](https://miguelamaral.vercel.app)
+###
 
-### Apresentação Pessoal
+<div align="center">
+  <a href="https://www.linkedin.com/in/miguelamaral254/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/miguelamaral254" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  </a>
+  <a href="https://miguelamaral.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfólio&logo=rocket&label=&color=A020F0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
+  </a>
+  <a href = "mailto:miguel.amaral.sales@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-Sobre
-Sou desenvolvedor backend com experiência na criação e manutenção de sistemas e APIs, com ênfase em soluções escaláveis e robustas. Minha trajetória inclui alguns projetos, onde posso destacar a Agenda Virtual NRF Retail 2025, que foi o meu primeiro projeto publicado com usuários reais.
+###
 
-Possuo experiência no uso de tecnologias modernas, como Java (Spring Boot), TypeScript, Next.js e Node.js. Focado em sempre melhorar minhas habilidades técnicas, utilizo ferramentas como Docker e bancos de dados relacionais e não relacionais (MySQL, PostgreSQL, MongoDB). Minha abordagem colaborativa é essencial para integrar equipes multidisciplinares e entregar resultados de impacto.
+<br clear="both">
 
-Busco novas oportunidades para aplicar meu conhecimento em projetos desafiadores, contribuindo com minha experiência e aprendendo constantemente.
+<img src="https://raw.githubusercontent.com/miguelamaral254/miguelamaral254/output/snake.svg" alt="Snake animation" />
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+###
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=miguelamaral254.miguelamaral254&left_color=black&right_color=blueviolet"  />
+
+###
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
