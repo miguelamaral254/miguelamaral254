@@ -5,9 +5,10 @@
 ###
 
 <p align="left">
-  👨‍💻 Desenvolvedor Backend focado em criar e manter sistemas e APIs escaláveis e robustas.<br>
-  🎓 Buscando oportunidades para aplicar meu conhecimento em projetos desafiadores e aprender constantemente.<br>
-  💡 Experiência em Java (Spring), TypeScript, Next.js, Node.js, Docker e bancos de dados SQL/NoSQL.
+  👨‍💻 Desenvolvedor Backend com foco principal em <b>Java (Spring Boot)</b> e sólida experiência em <b>C# (.NET Core)</b>.<br>
+  🚀 Especializado na construção de <b>APIs RESTful</b> e na criação de <b>arquiteturas escaláveis</b> e robustas.<br>
+  🛠️ Aplico princípios como <b>SOLID</b>, <b>DDD</b> e <b>TDD</b> em ambientes com metodologias ágeis e CI/CD.<br>
+  ☁️ Experiência prática em todo o ciclo de software, utilizando <b>Docker</b>, <b>Kubernetes</b>, <b>AWS</b> e <b>Azure</b>.
 </p>
 
 ###
