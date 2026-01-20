@@ -5,7 +5,7 @@
 ###
 
 <p align="left">
-  👨‍💻 Desenvolvedor Backend com foco principal em <b>Java (Spring Boot)</b> e sólida experiência em <b>Typescript (NestJS)</b>, <b>C# (.NET Core)</b>.<br>
+  👨‍💻 Desenvolvedor Fullstack com foco principal em <b>Java (Spring Boot)</b> e sólida experiência em <b>Typescript (NestJS)</b>, <b>C# (.NET Core)</b>.<br>
   🚀 Especializado na construção de <b>APIs RESTful</b> e na criação de <b>arquiteturas escaláveis</b> e robustas.<br>
   🛠️ Aplico princípios como <b>SOLID</b>, <b>DDD</b> e <b>TDD</b> em ambientes com metodologias ágeis e CI/CD.<br>
   ☁️ Experiência prática em todo o ciclo de software, utilizando <b>Docker</b>, <b>Kubernetes</b>, <b>AWS</b> e <b>Azure</b>.
